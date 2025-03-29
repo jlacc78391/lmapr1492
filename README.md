@@ -1,1 +1,1 @@
-This repository contains all notebooks and files related to the course LMAPR1492 - Materials Physics, thaught at UCLouvain.
+This repository contains all notebooks and files related to the course LMAPR1492 - Materials Physics, thaught at UCLouvain by Pr. Gian-Marco Rignanese and Pr. Luc Piraux. All notebooks were developed on the JupyterHub.
